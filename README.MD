@@ -1,0 +1,1 @@
+[Отправка/получение данных в интернете](https://code.tutsplus.com/ru/tutorials/android-from-scratch-using-rest-apis--cms-27117)
